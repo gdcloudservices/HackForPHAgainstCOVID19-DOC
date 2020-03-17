@@ -1,0 +1,20 @@
+Hi everyone! Thank you for joining the meeting earlier. We have decided to limit the scope of this project to achieving two things:
+1. Self-assessment by patients
+2. Triage based on the self-assessment (low risk, intermediate or high risk)
+3. Directing the patients to the nearest capable rural health unit if intermediate risk, nearest hospital if high risk. Or advised to stay at home if low risk.
+
+Goal to have a minimum viable product by Sunday.
+The goal is to come up with something patients need on the ground right now. Incorporating an EHR or using telemedicine is too complex and will not answer urgent needs of the population.
+We also clarified Project Moses's plans and have delineated our tasks. What the tech team will make can link to Project Moses's current product, which is a list of available hospitals and their capabilities.
+
+Action items for tomorrow:
+Compile a list of open rural health units, private clinics, and public and private hospitals, their locations and contact numbers.
+Refine user requirements and triage algorithm based on latest DOH and PSMID guidelines.
+
+
+
+The goal is to keep the application as simple as possible so we will not collect identifying information so we can easily comply with the Data Privacy Act.
+
+
+
+Future plans: scalability of the project to NCR or nationwide and endorsement by DOH.
